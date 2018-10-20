@@ -1,0 +1,25 @@
+18c18
+<     "bpf": "no",
+---
+>     "bpf": "yes",
+20c20
+<     "cloned_release": "EMPTY",
+---
+>     "cloned_release": "11.2-RELEASE",
+34c34
+<     "dhcp": "off",
+---
+>     "dhcp": "on",
+56c56
+<     "ip4_addr": "vnet0|none",
+---
+>     "ip4_addr": "none",
+59c59
+<     "ip6_addr": "vnet0|AUTOCONF",
+---
+>     "ip6_addr": "none",
+89c89
+<     "release": "EMPTY",
+---
+>     "release": "11.2-RELEASE-p4",
+\ No newline at end of file
